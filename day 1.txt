@@ -1,0 +1,16 @@
+Java don't have :
+
+1. operator overloading
+2. explicit pointer
+
+Java has:
+1. automatic garbage collector
+
+Java is platform independent language.
+
+java code are converted into intermediate level language called bytecode. Bytecode can be run on any machine by an interpreter called the Java Virtua Machine(JVM).
+
+Java is a multithread language.
+
+Java programs can create applets. 
+APPLETS: they are the program that run in web browsers. But applets support was desprecated in java 0 .
