@@ -5,8 +5,13 @@ const server= http.createServer(rqListener); //   variable with method name crea
 */
 // above one is one way to create a server
 const server = http.createServer((req, res) => {
-  console.log(req.url,req.method,req.);
-  process.exit();
+  console.log(req.url, req.method, req.header);
+  res.setHeader("Content-Type", "text/html");
+  res.write("<html>");
+  res.write("<head><title>My first Page</title></head>");
+  res.write("<body><h1>hello from Nilabh Aditya</h1></body>");
+  res.write("</html>");
+  res.end();
 }); // storing the server.
 
 server.listen(3000);
