@@ -1,4 +1,4 @@
-const oneWord = function (str) {
+/*const oneWord = function (str) {
   return str.replace(/ /g, "").toLowerCase();
 };
 const upperFirstWord = function (str) {
@@ -15,3 +15,17 @@ const transformer = function (str, fn) {
 transformer("Javascript is the best", upperFirstWord);
 
 transformer("Javascript is the best", oneWord);
+
+*/
+
+const greet = function (greeting) {
+  return function (name) {
+    console.log(` ${greeting} ${name}`);
+  };
+};
+
+const greeterHey = greet("Hey");
+greeterHey("Jonas");
+greeterHey("Steven");
+
+greet("Hello")("Jonas");
