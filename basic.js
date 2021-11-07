@@ -19,7 +19,7 @@ createBooking("LH123");
 createBooking("HT134", 2, 334);
 createBooking("hs123", undefined, 1000);
 */
-/*
+
 const flight = "LH234";
 const jonas = {
   name: "Jonas Schmedtmann",
@@ -28,14 +28,14 @@ const jonas = {
 const checkIn = function (flightNum, passenger) {
   flightNum = "LH999";
   passenger.name = "Mr. " + passenger.name;
-  if (passenger.passport === 23204243434) {
+  /* if (passenger.passport === 23204243434) {
     alert("Checked in");
   } else {
     alert("Wrong passport");
-  }
+  }*/
 };
 checkIn(flight, jonas);
-*/
+
 const people = {
   name: "nilabh",
   age: 21,
@@ -48,3 +48,10 @@ const changeAge = (peoples) => {
 };
 changeAge(people);
 console.log(people);
+
+const newPassport = function (person) {
+  person.passport = Math.trunc(Math.random() * 100000000);
+};
+
+newPassport(jonas);
+console.log(jonas);
