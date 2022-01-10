@@ -1,0 +1,2 @@
+1. installing node (done)
+2. creating initial files. (in process).
