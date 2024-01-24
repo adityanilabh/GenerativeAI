@@ -1,0 +1,25 @@
+what is reinforced learning?
+-- a machine learning training method based on rewarding desired behaviors and 
+   punishing undesired ones
+-- to train AI agents to navigate and interact with these environments. 
+   RL algorithms can generate optimal paths, identify potential obstacles, and adjust the 
+   behavior of NPCs based on their interactions with the game world.
+
+--supervised learning: teach a machine to search and identify patterns.
+
+--The Reinforcement Learning problem involves an agent exploring an unknown 
+  environment to achieve a goal. RL is based on the hypothesis that 
+  all goals can be described by the maximization of expected cumulative reward
+
+  application of reinforcement learning?
+  - we get to explore new things not known 
+  - non biasness.
+  -able to learn online in real time.
+
+  - bussiness need for reinforcement learning?
+  --creating personalised learning
+  --optimising advertising budgets.
+  --selecting best content for advertising.
+  -- minimise the ammount of time non optimal content is displayed.
+  --predicting customer response to price plan change.
+  --increaing customer lifetime value.

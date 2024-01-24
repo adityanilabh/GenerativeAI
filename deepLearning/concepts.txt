@@ -1,0 +1,14 @@
+what is deepLearning?
+ - a method in artificial intelligence (AI) that teaches computers 
+   to process data in a way that is inspired by the human brain.
+
+ how deep learning is executed?
+ - it has 1. input layer 2.hidden layer 3. output layer.
+
+ venn diagram of all data science topic:
+ deep learning consist of subset of nlp , rl, cv. also it consist of ml algorithm not
+ native to these three.
+ - deep learning and all above three comes under ml, and ml comes under ai.
+
+ Application of deepLearning?
+ - use in recommendation system, diesease finding etc.

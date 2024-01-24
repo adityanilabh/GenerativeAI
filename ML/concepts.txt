@@ -1,0 +1,40 @@
+what is machine learning?
+   a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms 
+   to imitate the way that humans learn, gradually improving its accuracy.
+
+how is machine learning different from rpa?
+  RPA focuses on replicating human behavior, ML solutions imitate how we think and learn
+
+how it helps?
+   helps companies predict consumer purchasing habits, market trends, and popular products, allowing retailers 
+   to make informed business decisions based on this predicted information.
+
+- what is regression?
+  --A regression is a statistical technique that relates a dependent variable 
+  to one or more 
+  independent (explanatory) variables.
+
+  what is correaltion?
+  --Correlation quantifies the strength of the linear relationship between a pair 
+  of variables, 
+  whereas regression expresses the relationship in the form of an equation.
+
+-- what is classification?
+  -Classification is a supervised machine learning method where the model 
+  tries to predict the correct label of a given input data. 
+  In classification, the model is fully trained using the training data, 
+  and then it is evaluated on test data before being used to perform 
+  prediction on new unseen data.
+
+-- what is clustering?
+  -Clustering is the act of organizing similar objects into groups 
+  within a machine learning algorithm. Assigning related objects into clusters is 
+  beneficial for AI models. Clustering has many uses in data science, like image 
+  processing, knowledge discovery in data, unsupervised learning, and various other 
+  applications.
+
+-- what is association rule learning?
+
+  -Association rule learning is a rule-based machine learning method for discovering 
+  interesting relations between variables in large databases. It is intended to identify 
+  strong rules discovered in databases using some measures of interestingness.

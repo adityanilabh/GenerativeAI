@@ -1,0 +1,15 @@
+what is computer vision?
+ -a field of computer science that focuses on enabling computers to identify 
+  and understand objects and people in images and videos.
+
+Types of Computer Vision?
+ -classical computer vision: WOrk best for object detection.
+
+ -deep learning computer vision: work with disimilar objects.    
+
+Application of Computer vision?
+ - background blurr
+ -cat or dog?
+ -facial recognisation
+ -adas system
+ -pattern detection

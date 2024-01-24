@@ -1,0 +1,23 @@
+--what is NLP( natural language processing):
+  -field of ai concerned with  interaction between computer and human natural language.
+  -in particular how to program computers to process and analyse large amount of natural language data.
+
+--what is nlu?
+  -mapping the given input from natural language into formal representation and analyse it.
+-- what is nlg?
+  - a software process driven by artificial intelligence that produces natural written or spoken language 
+    from structured and unstructured data.
+
+-- how nlp works?
+  - uses artificial intelligence to take real-world input, process it, and make 
+    sense of it in a way a computer can understand.
+
+-- use of nlp?
+  1. sentiment analysis
+  2. speech recognition.
+  3. chatbots.
+  4. machine translation.
+  5. autocompletion text.
+  6. spell checking
+  7. keyword search.
+  8. video captioning.
